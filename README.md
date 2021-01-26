@@ -1,13 +1,13 @@
 To run the project
 1) ## Setup environment variables
-create .env file at the root of the project and add these enteries with correct values.
+Create .env file at the root of the project and add these entries with correct values
 
-```json
+```js
 {
-  DIALOGFLOW_PRIVATE_KEY="<dialog flow private key provided when creating application in dialog flow>"
-  DIALOGFLOW_CLIENT_EMAIL="<dialog flow registered email address>"
-  AUTH_TOKEN="<auth toke for quillionz api>"
-  QUIZ_URL="<quillionz sandbox or production url>"
+  DIALOGFLOW_PRIVATE_KEY="<Dialog flow private key provided when creating application in dialog flow>"
+  DIALOGFLOW_CLIENT_EMAIL="<Dialog flow registered email address>"
+  AUTH_TOKEN="<Auth token for quillionz api>"
+  QUIZ_URL="<Quillionz sandbox or production url>"
 }
 ```
 2) npm install
