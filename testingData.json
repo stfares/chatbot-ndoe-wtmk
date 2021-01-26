@@ -1,0 +1,313 @@
+{
+  "ContentEncoding": null,
+  "ContentType": "application/json",
+  "Data": {
+    "multipleChoiceQuestions": {
+      "mcq": [
+        {
+          "Question": "Located in North America, the United States is bordered on the west by the _______ and to the east by the Atlantic Ocean.",
+          "Answer": "Pacific Ocean",
+          "Options": [
+            "Pacific Ocean",
+            "North Pacific",
+            "Indian Ocean",
+            "Gulf Coast",
+            "North Atlantic",
+            "South Pole"
+          ],
+          "originalSentence": "Located in North America, the United States is bordered on the west by the Pacific Ocean and to the east by the Atlantic Ocean."
+        },
+        {
+          "Question": "The New England states, namely _______, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont, became home to European settlers who came in search of religious freedom.",
+          "Answer": "Connecticut",
+          "Options": [
+            "Connecticut",
+            "North Carolina",
+            "Ohio",
+            "Pennsylvania",
+            "Rhode Island",
+            "New Hampshire",
+            "Illinois",
+            "Virginia",
+            "Delaware"
+          ],
+          "originalSentence": "The New England states, namely Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont, became home to European settlers who came in search of religious freedom."
+        },
+        {
+          "Question": "The Southern states, namely Alabama, Arkansas, Florida, Georgia, _______, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, and West Virginia, were all states which struggled after the Civil War.",
+          "Answer": "Kentucky",
+          "Options": [
+            "Kentucky",
+            "Kansas",
+            "Nebraska",
+            "West Virginia",
+            "Indiana",
+            "Oklahoma",
+            "Wisconsin",
+            "Alabama",
+            "Iowa"
+          ],
+          "originalSentence": "The Southern states, namely Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, and West Virginia, were all states which struggled after the Civil War."
+        },
+        {
+          "Question": "The Midwest comprises the states of _______, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.",
+          "Answer": "Illinois",
+          "Options": [
+            "Illinois",
+            "Virginia",
+            "Missouri",
+            "North Carolina",
+            "Kansas",
+            "Maryland",
+            "Connecticut",
+            "Texas",
+            "Massachusetts"
+          ],
+          "originalSentence": "The Midwest comprises the states of Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin."
+        },
+        {
+          "Question": "The Western states, including Alaska, Colorado, California, Hawaii, _______, Montana, Nevada, Oregon, Utah, Washington, and Wyoming make up a diverse landscape.",
+          "Answer": "Idaho",
+          "Options": [
+            "Idaho",
+            "South Dakota",
+            "New Mexico",
+            "Louisiana",
+            "North Carolina",
+            "Missouri",
+            "Pennsylvania",
+            "Texas",
+            "Maine",
+            "Wyoming"
+          ],
+          "originalSentence": "The Western states, including Alaska, Colorado, California, Hawaii, Idaho, Montana, Nevada, Oregon, Utah, Washington, and Wyoming make up a diverse landscape."
+        }
+      ],
+      "trueFalse": [
+        {
+          "questionList": [
+            {
+              "question": "Along the northern border is Canada and the southern border is Chile.",
+              "answer": "False",
+              "correctSent": "Along the northern border is Canada and the southern border is Mexico."
+            },
+            {
+              "question": "Along the northern border is States and the southern border is Mexico.",
+              "answer": "False",
+              "correctSent": "Along the northern border is Canada and the southern border is Mexico."
+            },
+            {
+              "question": "Along the northern border is Canada and the southern border is Mexico.",
+              "answer": "True",
+              "correctSent": "Along the northern border is Canada and the southern border is Mexico."
+            }
+          ],
+          "originalSentence": "Along the northern border is Canada and the southern border is Mexico."
+        },
+        {
+          "questionList": [
+            {
+              "question": "There are 50 states and the District of Columbia.",
+              "answer": "True",
+              "correctSent": "There are 50 states and the District of Columbia."
+            },
+            {
+              "question": "There are 65 states and the District of Columbia.",
+              "answer": "False",
+              "correctSent": "There are 50 states and the District of Columbia."
+            }
+          ],
+          "originalSentence": "There are 50 states and the District of Columbia."
+        },
+        {
+          "questionList": [
+            {
+              "question": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, New York, North Carolina.",
+              "answer": "False",
+              "correctSent": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, New York, Pennsylvania."
+            },
+            {
+              "question": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, Chicago, Pennsylvania.",
+              "answer": "False",
+              "correctSent": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, New York, Pennsylvania."
+            },
+            {
+              "question": "The mid-Atlantic region includes the city of Washington, D.C., California, Maryland, New Jersey, New York, Pennsylvania.",
+              "answer": "False",
+              "correctSent": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, New York, Pennsylvania."
+            },
+            {
+              "question": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, New York, Pennsylvania.",
+              "answer": "True",
+              "correctSent": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, New York, Pennsylvania."
+            },
+            {
+              "question": "The mid-Atlantic region includes the city of South Carolina, D.C., Delaware, Maryland, New Jersey, New York, Pennsylvania.",
+              "answer": "False",
+              "correctSent": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, New York, Pennsylvania."
+            },
+            {
+              "question": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, North Carolina, New Jersey, New York, Pennsylvania.",
+              "answer": "False",
+              "correctSent": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, New York, Pennsylvania."
+            }
+          ],
+          "originalSentence": "The mid-Atlantic region includes the city of Washington, D.C., Delaware, Maryland, New Jersey, New York, Pennsylvania."
+        },
+        {
+          "questionList": [
+            {
+              "question": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of European immigrants.",
+              "answer": "True",
+              "correctSent": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of European immigrants."
+            },
+            {
+              "question": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of Latin American immigrants.",
+              "answer": "False",
+              "correctSent": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of European immigrants."
+            }
+          ],
+          "originalSentence": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of European immigrants."
+        },
+        {
+          "questionList": [
+            {
+              "question": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of European immigrants. As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as New York, Baltimore, and Pittsburg.",
+              "answer": "False",
+              "correctSent": "As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as New York, Baltimore, and Philadelphia."
+            },
+            {
+              "question": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of European immigrants. As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as Washington DC, Baltimore, and Philadelphia.",
+              "answer": "False",
+              "correctSent": "As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as New York, Baltimore, and Philadelphia."
+            },
+            {
+              "question": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of European immigrants. As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as New York, Seattle, and Philadelphia.",
+              "answer": "False",
+              "correctSent": "As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as New York, Baltimore, and Philadelphia."
+            },
+            {
+              "question": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of European immigrants. As a result, the mid-Atlantic gave rise to some of the largest Gulf Coast cities, such as New York, Baltimore, and Philadelphia.",
+              "answer": "False",
+              "correctSent": "As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as New York, Baltimore, and Philadelphia."
+            },
+            {
+              "question": "Because the mid-Atlantic region consisted largely of industrial areas, it attracted millions of European immigrants. As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as New York, Baltimore, and Philadelphia.",
+              "answer": "True",
+              "correctSent": "As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as New York, Baltimore, and Philadelphia."
+            }
+          ],
+          "originalSentence": "As a result, the mid-Atlantic gave rise to some of the largest East Coast cities, such as New York, Baltimore, and Philadelphia."
+        },
+        {
+          "questionList": [
+            {
+              "question": "The Midwest is called the nation's breadbasket, because it is home to the country's agricultural base.",
+              "answer": "True",
+              "correctSent": "The Midwest is called the nation's breadbasket, because it is home to the country's agricultural base."
+            },
+            {
+              "question": "The Southern California is called the nation's breadbasket, because it is home to the country's agricultural base.",
+              "answer": "False",
+              "correctSent": "The Midwest is called the nation's breadbasket, because it is home to the country's agricultural base."
+            }
+          ],
+          "originalSentence": "The Midwest is called the nation's breadbasket, because it is home to the country's agricultural base."
+        },
+        {
+          "questionList": [
+            {
+              "question": "The Brit West is a symbol of the pioneering spirit of the United States, and is the home of rolling plains and the cowboy.",
+              "answer": "False",
+              "correctSent": "The American West is a symbol of the pioneering spirit of the United States, and is the home of rolling plains and the cowboy."
+            },
+            {
+              "question": "The American West is a symbol of the pioneering spirit of the United States, and is the home of rolling plains and the cowboy.",
+              "answer": "True",
+              "correctSent": "The American West is a symbol of the pioneering spirit of the United States, and is the home of rolling plains and the cowboy."
+            }
+          ],
+          "originalSentence": "The American West is a symbol of the pioneering spirit of the United States, and is the home of rolling plains and the cowboy."
+        },
+        {
+          "questionList": [
+            {
+              "question": "The landscape varies across the small expanse of the United States.",
+              "answer": "False",
+              "correctSent": "The landscape varies across the large expanse of the United States."
+            },
+            {
+              "question": "The landscape varies across the large expanse of the United States.",
+              "answer": "True",
+              "correctSent": "The landscape varies across the large expanse of the United States."
+            }
+          ],
+          "originalSentence": "The landscape varies across the large expanse of the United States."
+        },
+        {
+          "questionList": [
+            {
+              "question": "For example, while Arizona boasts of tropical beaches, the Rocky Mountains are famous for their peaks.",
+              "answer": "False",
+              "correctSent": "For example, while Florida boasts of tropical beaches, the Rocky Mountains are famous for their peaks."
+            },
+            {
+              "question": "For example, while Florida boasts of tropical beaches, the Rocky Mountains are famous for their peaks.",
+              "answer": "True",
+              "correctSent": "For example, while Florida boasts of tropical beaches, the Rocky Mountains are famous for their peaks."
+            }
+          ],
+          "originalSentence": "For example, while Florida boasts of tropical beaches, the Rocky Mountains are famous for their peaks."
+        },
+        {
+          "questionList": [
+            {
+              "question": "The west is home to rolling prairie lands and barren deserts, while the Northern California and the Northwest are known for their dense wilderness areas.",
+              "answer": "False",
+              "correctSent": "The west is home to rolling prairie lands and barren deserts, while the Northeast and the Northwest are known for their dense wilderness areas."
+            },
+            {
+              "question": "The west is home to rolling prairie lands and barren deserts, while the Northeast and the Northwest are known for their dense wilderness areas.",
+              "answer": "True",
+              "correctSent": "The west is home to rolling prairie lands and barren deserts, while the Northeast and the Northwest are known for their dense wilderness areas."
+            }
+          ],
+          "originalSentence": "The west is home to rolling prairie lands and barren deserts, while the Northeast and the Northwest are known for their dense wilderness areas."
+        },
+        {
+          "questionList": [
+            {
+              "question": "There are over 20,000 flower species and most came from Latin America.",
+              "answer": "False",
+              "correctSent": "There are over 20,000 flower species and most came from Europe."
+            },
+            {
+              "question": "There are over 20,000 flower species and most came from Europe.",
+              "answer": "True",
+              "correctSent": "There are over 20,000 flower species and most came from Europe."
+            }
+          ],
+          "originalSentence": "There are over 20,000 flower species and most came from Europe."
+        },
+        {
+          "questionList": [
+            {
+              "question": "There are more than 100 areas which are protected and maintained by the National Park Service, and many other parks in each state.",
+              "answer": "False",
+              "correctSent": "There are more than 400 areas which are protected and maintained by the National Park Service, and many other parks in each state."
+            },
+            {
+              "question": "There are more than 400 areas which are protected and maintained by the National Park Service, and many other parks in each state.",
+              "answer": "True",
+              "correctSent": "There are more than 400 areas which are protected and maintained by the National Park Service, and many other parks in each state."
+            }
+          ],
+          "originalSentence": "There are more than 400 areas which are protected and maintained by the National Park Service, and many other parks in each state."
+        }
+      ]
+    }
+  },
+  "JsonRequestBehavior": 0,
+  "MaxJsonLength": 2147483647,
+  "RecursionLimit": 0
+}
